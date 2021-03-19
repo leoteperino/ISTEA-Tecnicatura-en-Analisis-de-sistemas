@@ -1,0 +1,16 @@
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/bin/Debug/net5.0/Hola Mundo
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/bin/Debug/net5.0/Hola Mundo.deps.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/bin/Debug/net5.0/Hola Mundo.runtimeconfig.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/bin/Debug/net5.0/Hola Mundo.runtimeconfig.dev.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/bin/Debug/net5.0/Hola Mundo.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/bin/Debug/net5.0/ref/Hola Mundo.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/bin/Debug/net5.0/Hola Mundo.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/obj/Debug/net5.0/Hola Mundo.csprojAssemblyReference.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/obj/Debug/net5.0/Hola Mundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/obj/Debug/net5.0/Hola Mundo.AssemblyInfoInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/obj/Debug/net5.0/Hola Mundo.AssemblyInfo.cs
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/obj/Debug/net5.0/Hola Mundo.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/obj/Debug/net5.0/Hola Mundo.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/obj/Debug/net5.0/ref/Hola Mundo.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/obj/Debug/net5.0/Hola Mundo.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Hola Mundo/obj/Debug/net5.0/Hola Mundo.genruntimeconfig.cache
