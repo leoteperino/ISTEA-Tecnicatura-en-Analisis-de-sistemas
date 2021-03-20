@@ -1,0 +1,16 @@
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/obj/Debug/net5.0/Ejercicio4.csprojAssemblyReference.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/obj/Debug/net5.0/Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/obj/Debug/net5.0/Ejercicio4.AssemblyInfoInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/obj/Debug/net5.0/Ejercicio4.AssemblyInfo.cs
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/obj/Debug/net5.0/Ejercicio4.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/bin/Debug/net5.0/Ejercicio4
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/bin/Debug/net5.0/Ejercicio4.deps.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/bin/Debug/net5.0/Ejercicio4.runtimeconfig.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/bin/Debug/net5.0/Ejercicio4.runtimeconfig.dev.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/bin/Debug/net5.0/Ejercicio4.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/bin/Debug/net5.0/ref/Ejercicio4.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/bin/Debug/net5.0/Ejercicio4.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/obj/Debug/net5.0/Ejercicio4.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/obj/Debug/net5.0/ref/Ejercicio4.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/obj/Debug/net5.0/Ejercicio4.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Ejercicio4/obj/Debug/net5.0/Ejercicio4.genruntimeconfig.cache
