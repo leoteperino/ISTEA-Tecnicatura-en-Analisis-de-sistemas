@@ -1,0 +1,13 @@
+C:\valen\proyect14\bin\Debug\netcoreapp3.1\proyect14.exe
+C:\valen\proyect14\bin\Debug\netcoreapp3.1\proyect14.deps.json
+C:\valen\proyect14\bin\Debug\netcoreapp3.1\proyect14.runtimeconfig.json
+C:\valen\proyect14\bin\Debug\netcoreapp3.1\proyect14.runtimeconfig.dev.json
+C:\valen\proyect14\bin\Debug\netcoreapp3.1\proyect14.dll
+C:\valen\proyect14\bin\Debug\netcoreapp3.1\proyect14.pdb
+C:\valen\proyect14\obj\Debug\netcoreapp3.1\proyect14.csprojAssemblyReference.cache
+C:\valen\proyect14\obj\Debug\netcoreapp3.1\proyect14.AssemblyInfoInputs.cache
+C:\valen\proyect14\obj\Debug\netcoreapp3.1\proyect14.AssemblyInfo.cs
+C:\valen\proyect14\obj\Debug\netcoreapp3.1\proyect14.csproj.CoreCompileInputs.cache
+C:\valen\proyect14\obj\Debug\netcoreapp3.1\proyect14.dll
+C:\valen\proyect14\obj\Debug\netcoreapp3.1\proyect14.pdb
+C:\valen\proyect14\obj\Debug\netcoreapp3.1\proyect14.genruntimeconfig.cache

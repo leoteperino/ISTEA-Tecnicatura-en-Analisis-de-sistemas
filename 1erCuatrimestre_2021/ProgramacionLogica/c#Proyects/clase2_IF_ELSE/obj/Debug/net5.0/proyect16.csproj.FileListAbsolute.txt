@@ -1,0 +1,16 @@
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/bin/Debug/net5.0/proyect16
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/bin/Debug/net5.0/proyect16.deps.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/bin/Debug/net5.0/proyect16.runtimeconfig.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/bin/Debug/net5.0/proyect16.runtimeconfig.dev.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/bin/Debug/net5.0/proyect16.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/bin/Debug/net5.0/ref/proyect16.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/bin/Debug/net5.0/proyect16.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/obj/Debug/net5.0/proyect16.csprojAssemblyReference.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/obj/Debug/net5.0/proyect16.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/obj/Debug/net5.0/proyect16.AssemblyInfoInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/obj/Debug/net5.0/proyect16.AssemblyInfo.cs
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/obj/Debug/net5.0/proyect16.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/obj/Debug/net5.0/proyect16.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/obj/Debug/net5.0/ref/proyect16.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/obj/Debug/net5.0/proyect16.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/clase2_IF_ELSE/obj/Debug/net5.0/proyect16.genruntimeconfig.cache
