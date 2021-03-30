@@ -1,0 +1,16 @@
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/obj/Debug/net5.0/Test Dop While.csprojAssemblyReference.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/obj/Debug/net5.0/Test Dop While.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/obj/Debug/net5.0/Test Dop While.AssemblyInfoInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/obj/Debug/net5.0/Test Dop While.AssemblyInfo.cs
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/obj/Debug/net5.0/Test Dop While.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/bin/Debug/net5.0/Test Dop While
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/bin/Debug/net5.0/Test Dop While.deps.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/bin/Debug/net5.0/Test Dop While.runtimeconfig.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/bin/Debug/net5.0/Test Dop While.runtimeconfig.dev.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/bin/Debug/net5.0/Test Dop While.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/bin/Debug/net5.0/ref/Test Dop While.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/bin/Debug/net5.0/Test Dop While.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/obj/Debug/net5.0/Test Dop While.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/obj/Debug/net5.0/ref/Test Dop While.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/obj/Debug/net5.0/Test Dop While.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Test Dop While/obj/Debug/net5.0/Test Dop While.genruntimeconfig.cache

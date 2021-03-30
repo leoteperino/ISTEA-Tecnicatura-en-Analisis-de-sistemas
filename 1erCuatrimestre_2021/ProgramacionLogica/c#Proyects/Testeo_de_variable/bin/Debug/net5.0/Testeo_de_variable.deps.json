@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Testeo_de_variable/1.0.0": {
+        "runtime": {
+          "Testeo_de_variable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testeo_de_variable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
