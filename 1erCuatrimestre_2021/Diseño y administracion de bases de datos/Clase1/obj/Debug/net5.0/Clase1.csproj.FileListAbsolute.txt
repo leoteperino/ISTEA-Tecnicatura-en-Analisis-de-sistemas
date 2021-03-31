@@ -1,0 +1,16 @@
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/bin/Debug/net5.0/Clase1
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/bin/Debug/net5.0/Clase1.deps.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/bin/Debug/net5.0/Clase1.runtimeconfig.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/bin/Debug/net5.0/Clase1.runtimeconfig.dev.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/bin/Debug/net5.0/Clase1.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/bin/Debug/net5.0/ref/Clase1.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/bin/Debug/net5.0/Clase1.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/obj/Debug/net5.0/Clase1.csprojAssemblyReference.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/obj/Debug/net5.0/Clase1.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/obj/Debug/net5.0/Clase1.AssemblyInfoInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/obj/Debug/net5.0/Clase1.AssemblyInfo.cs
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/obj/Debug/net5.0/Clase1.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/obj/Debug/net5.0/Clase1.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/obj/Debug/net5.0/ref/Clase1.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/obj/Debug/net5.0/Clase1.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/Diseño y administracion de bases de datos/Clase1/obj/Debug/net5.0/Clase1.genruntimeconfig.cache

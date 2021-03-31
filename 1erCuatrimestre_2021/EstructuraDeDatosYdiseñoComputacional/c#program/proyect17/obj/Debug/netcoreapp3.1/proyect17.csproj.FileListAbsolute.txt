@@ -1,0 +1,13 @@
+C:\valen\proyect17\obj\Debug\netcoreapp3.1\proyect17.csprojAssemblyReference.cache
+C:\valen\proyect17\obj\Debug\netcoreapp3.1\proyect17.AssemblyInfoInputs.cache
+C:\valen\proyect17\obj\Debug\netcoreapp3.1\proyect17.AssemblyInfo.cs
+C:\valen\proyect17\obj\Debug\netcoreapp3.1\proyect17.csproj.CoreCompileInputs.cache
+C:\valen\proyect17\bin\Debug\netcoreapp3.1\proyect17.exe
+C:\valen\proyect17\bin\Debug\netcoreapp3.1\proyect17.deps.json
+C:\valen\proyect17\bin\Debug\netcoreapp3.1\proyect17.runtimeconfig.json
+C:\valen\proyect17\bin\Debug\netcoreapp3.1\proyect17.runtimeconfig.dev.json
+C:\valen\proyect17\bin\Debug\netcoreapp3.1\proyect17.dll
+C:\valen\proyect17\bin\Debug\netcoreapp3.1\proyect17.pdb
+C:\valen\proyect17\obj\Debug\netcoreapp3.1\proyect17.dll
+C:\valen\proyect17\obj\Debug\netcoreapp3.1\proyect17.pdb
+C:\valen\proyect17\obj\Debug\netcoreapp3.1\proyect17.genruntimeconfig.cache
