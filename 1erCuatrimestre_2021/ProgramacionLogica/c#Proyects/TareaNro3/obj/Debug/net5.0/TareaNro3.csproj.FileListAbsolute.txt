@@ -1,0 +1,16 @@
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/bin/Debug/net5.0/TareaNro3
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/bin/Debug/net5.0/TareaNro3.deps.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/bin/Debug/net5.0/TareaNro3.runtimeconfig.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/bin/Debug/net5.0/TareaNro3.runtimeconfig.dev.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/bin/Debug/net5.0/TareaNro3.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/bin/Debug/net5.0/ref/TareaNro3.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/bin/Debug/net5.0/TareaNro3.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/obj/Debug/net5.0/TareaNro3.csprojAssemblyReference.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/obj/Debug/net5.0/TareaNro3.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/obj/Debug/net5.0/TareaNro3.AssemblyInfoInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/obj/Debug/net5.0/TareaNro3.AssemblyInfo.cs
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/obj/Debug/net5.0/TareaNro3.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/obj/Debug/net5.0/TareaNro3.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/obj/Debug/net5.0/ref/TareaNro3.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/obj/Debug/net5.0/TareaNro3.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/TareaNro3/obj/Debug/net5.0/TareaNro3.genruntimeconfig.cache

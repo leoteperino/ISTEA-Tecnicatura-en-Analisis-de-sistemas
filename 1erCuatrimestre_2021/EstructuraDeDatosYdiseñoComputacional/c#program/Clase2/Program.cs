@@ -73,16 +73,18 @@ namespace proyect17
           //   y++;
           // }while(y<=5);
 
-          Console.WriteLine("*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/");
+          // Console.WriteLine("*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/");
             
-          int y=0;
-          string oracion2="Nicolas";
-          int cant=oracion2.Length;
-          do
-          {
-            Console.WriteLine("Letra= "+oracion2[y]);
-            y++;    
-          }while(y<cant);
+          // int y=0;
+          // string oracion2="Nicolas";
+          // int cant=oracion2.Length;
+          // do
+          // {
+          //   Console.WriteLine("Letra= "+oracion2[y]);
+          //   y++;    
+          // }while(y<cant);
+
+          // Console.WriteLine("*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/");
 
           // string usuario;
           // int pass;
@@ -93,7 +95,6 @@ namespace proyect17
           //   usuario=Console.ReadLine();
           //   Console.WriteLine("Password:");
           //   pass=Int32.Parse(Console.ReadLine());
-
           //   if(usuario=="admin" && pass==123456)
           //   {
           //       Console.WriteLine("Acceso Permitido");                        
@@ -104,6 +105,8 @@ namespace proyect17
           //   }
           // }while(usuario!="admin" || pass!=123456);
 
+          //Console.WriteLine("*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/");
+
           // int n=0;
           // while(n<5)
           // {
@@ -111,13 +114,17 @@ namespace proyect17
           //   n++; 
           // }
 
-          // int [] valores2=new int[50];
+          //Console.WriteLine("*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/");
+
+          // int [] valores2= new int[50];
           // for(int x=0;x<50;x++)
           // {
           //   valores2[x]=x;  
           //   Console.WriteLine("Valor  del Array es:"+valores2[x]);
           //   Console.WriteLine("Indice del Array es:"+x);
           // }
+
+          //Console.WriteLine("*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/");
 
           // string[] paises={"Argentina","Brasil","Peru"};
           // string[] paises2=paises.Clone() as string[];
@@ -127,29 +134,32 @@ namespace proyect17
           // }
           // Console.WriteLine(string.Join(" | ",paises2));
 
+          // Console.WriteLine("*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/");
+
           // int[] array_enteros={1,23,45,66,23,11};
           // int[] array_enteros2={99,99,99,99,99,99};
           // Array.Copy(array_enteros,0,array_enteros2,0,4);
           // Console.WriteLine(string.Join(" - ",array_enteros2));
           // Console.WriteLine("Cantidad:"+array_enteros.Length);
 
-          // int a=20;
-          // switch(a)
-          // {
-          //     case 17:
-          //     Console.WriteLine("EL valor 17");
-          //     break;
+          // Console.WriteLine("*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/");
 
-          //     case 19:
-          //     {
-          //     Console.WriteLine("EL valor 19");
-          //     break;
-          //     }
-              
-          //     case 20:
-          //     Console.WriteLine("EL valor 20");
-          //     break;
-          // }
-        }
+        //   int a=20;
+        //   switch(a)
+        //   {
+        //       case 17:
+        //       Console.WriteLine("EL valor 17");
+        //       break;
+        //       case 19:
+        //       {
+        //       Console.WriteLine("EL valor 19");
+        //       break;
+        //       }
+        //       case 20:
+        //       Console.WriteLine("EL valor 20");
+        //       break;
+        //   }
+        //   Console.WriteLine("*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/");
+        // }
     }
 }
