@@ -20,6 +20,7 @@ namespace Ejercicio1
                 Console.Write("Ingrese un numero entero de hasta 4 cifras o el 0 para Salir: ");
                 //Parseo el dato ingresado a numerico
                 esNumerico = int.TryParse(Console.ReadLine(), out numeroIngresado);
+
                 //validacion y logica del dato Ingresado
                 if(esNumerico){
                     //Valido que no tenga mas de 4 cifras
@@ -30,7 +31,7 @@ namespace Ejercicio1
                     }else if(numeroIngresado == 0){ //Comportamiento si el numero es 0
                         Console.WriteLine("Gracias por usar el programa.");
                     }else{ //Verifico si el numero es par o impar
-                       if(numeroIngresado%2 == 0){
+                       if(numeroIngresado%2 == 0){ 
                           Console.WriteLine("El numero ingresado es par");  
                        }else{
                            Console.WriteLine("El numero ingresado es impar");
@@ -40,7 +41,7 @@ namespace Ejercicio1
                     Console.WriteLine("-ERROR-No ha ingresado un numero");
                 }
             }while(numeroIngresado!=0 || !esNumerico);
-            Console.ReadKey();      
+            Console.ReadKey(); 
         }
     }
 }

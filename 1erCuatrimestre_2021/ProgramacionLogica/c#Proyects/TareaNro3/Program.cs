@@ -48,7 +48,7 @@ namespace TareaNro3
                             Console.WriteLine("Ingrese su nombre: ");
                             nombre = Console.ReadLine();
                             do{
-                                Console.WriteLine("Ingrese su edad: ");
+                                Console.WriteLine("Ingrese su edad[14-18]: ");
                                 esInt = int.TryParse(Console.ReadLine(), out edad);
                                 if(esInt){
                                     if(edad < 14 || edad > 18){

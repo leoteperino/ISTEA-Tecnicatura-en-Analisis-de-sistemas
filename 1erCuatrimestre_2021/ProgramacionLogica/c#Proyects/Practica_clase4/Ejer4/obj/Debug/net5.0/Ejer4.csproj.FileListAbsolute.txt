@@ -1,0 +1,16 @@
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/bin/Debug/net5.0/Ejer4
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/bin/Debug/net5.0/Ejer4.deps.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/bin/Debug/net5.0/Ejer4.runtimeconfig.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/bin/Debug/net5.0/Ejer4.runtimeconfig.dev.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/bin/Debug/net5.0/Ejer4.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/bin/Debug/net5.0/ref/Ejer4.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/bin/Debug/net5.0/Ejer4.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/obj/Debug/net5.0/Ejer4.csprojAssemblyReference.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/obj/Debug/net5.0/Ejer4.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/obj/Debug/net5.0/Ejer4.AssemblyInfoInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/obj/Debug/net5.0/Ejer4.AssemblyInfo.cs
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/obj/Debug/net5.0/Ejer4.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/obj/Debug/net5.0/Ejer4.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/obj/Debug/net5.0/ref/Ejer4.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/obj/Debug/net5.0/Ejer4.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Practica_clase4/Ejer4/obj/Debug/net5.0/Ejer4.genruntimeconfig.cache

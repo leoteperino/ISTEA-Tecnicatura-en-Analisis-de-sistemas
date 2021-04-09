@@ -30,11 +30,12 @@ namespace TareaNro2
             bool esChar;
             bool esInt;
 
+            Console.Clear();
             do{
-                Console.Clear();
                 Console.WriteLine("***Menu de Ingreso***");
                 Console.WriteLine("Ingrese un puesto de trabajo:\nI-Ingeniero\nA-Analista\nD-Desarrollador\nS-Salir");
                 esChar = char.TryParse(Console.ReadLine(), out opcionMenu);
+                opcionMenu = Char.ToLower(opcionMenu);
                 if(esChar){
                     switch(opcionMenu){
                         case 'i':
@@ -44,9 +45,12 @@ namespace TareaNro2
                                 Console.WriteLine("Ingrese los dias trabajados[1-30] o 0 para Salir: ");
                                 esInt = int.TryParse(Console.ReadLine(), out diasTrabajados);
                                 if(esInt){
-                                    Console.Clear();
                                     if(diasTrabajados <= 0 || diasTrabajados > 30){
-                                        Console.WriteLine("-ERROR-Ingrese los dias del 1 al 30");
+                                        if(diasTrabajados==0){
+                                            Console.WriteLine("Gracias!\n");    
+                                        }else{
+                                            Console.WriteLine("-ERROR-Ingrese los dias del 1 al 30\n");        
+                                        }
                                     }else{
                                         if(opcionMenu.Equals('i')){
                                             puestoTrabajo="Ingeniero";
@@ -65,23 +69,24 @@ namespace TareaNro2
                                         }
                                         string sueldo_formatoMoneda = sueldo.ToString("C");
                                         string liquidacionFinal_formatoMoneda = liquidacionFinal.ToString("C");
+                                        Console.Clear();
                                         Console.WriteLine("**************************");
                                         Console.WriteLine("Puesto de trabajo: "+puestoTrabajo+
                                                           "\nSueldo base: "+sueldo_formatoMoneda+
                                                           "\nDias trabajados: "+diasTrabajados+
                                                           "\nLiquidacion Final: "+liquidacionFinal_formatoMoneda);
                                         Console.WriteLine("**************************");
-                                        Console.WriteLine("Presione una letra para continuar");
+                                        Console.WriteLine("Presione una tecla para continuar");
                                         Console.ReadKey();
-                                        Console.Write("");
+                                        Console.Write("\n");
                                     }
                                 }else{
-                                    Console.WriteLine("-ERROR-No ingreso dias");
+                                    Console.WriteLine("-ERROR-No ingreso dias\n");
                                 }
-                            }while(diasTrabajados < 0 || diasTrabajados > 30);
+                            }while((diasTrabajados < 0 || diasTrabajados > 30) || !esInt);
                             break;
                         case 's':
-                            Console.WriteLine("Gracias por usar el programa\nPresione una letra para salir.");
+                            Console.WriteLine("Gracias por usar el programa\nPresione una tecla para salir.");
                             break;
                         default:
                             Console.WriteLine("-ERROR-Usted no ha ingresado una opcion del Menu\nPresione cualquier tecla para continuar");

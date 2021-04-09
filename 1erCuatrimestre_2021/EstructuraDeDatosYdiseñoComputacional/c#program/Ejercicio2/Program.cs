@@ -16,11 +16,12 @@ namespace Ejercicio2
             int i;
             int cont_0 = 0;
             int cont_1 = 0;
+
             Console.Clear();
             for(i=0; i<oracion.Length; i++){
-                if(oracion[i].Equals('0')){
+                if(oracion[i]=='0')){
                     cont_0++;
-                }else if(oracion[i].Equals('1')){
+                }else if(oracion[i]=='1'){
                     cont_1++;
                 }
             }

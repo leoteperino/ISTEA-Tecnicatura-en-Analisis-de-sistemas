@@ -1,0 +1,13 @@
+C:\valen\Practica_clase\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.csprojAssemblyReference.cache
+C:\valen\Practica_clase\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.AssemblyInfoInputs.cache
+C:\valen\Practica_clase\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.AssemblyInfo.cs
+C:\valen\Practica_clase\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.csproj.CoreCompileInputs.cache
+C:\valen\Practica_clase\Ejer2\bin\Debug\netcoreapp3.1\Ejer2.exe
+C:\valen\Practica_clase\Ejer2\bin\Debug\netcoreapp3.1\Ejer2.deps.json
+C:\valen\Practica_clase\Ejer2\bin\Debug\netcoreapp3.1\Ejer2.runtimeconfig.json
+C:\valen\Practica_clase\Ejer2\bin\Debug\netcoreapp3.1\Ejer2.runtimeconfig.dev.json
+C:\valen\Practica_clase\Ejer2\bin\Debug\netcoreapp3.1\Ejer2.dll
+C:\valen\Practica_clase\Ejer2\bin\Debug\netcoreapp3.1\Ejer2.pdb
+C:\valen\Practica_clase\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.dll
+C:\valen\Practica_clase\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.pdb
+C:\valen\Practica_clase\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.genruntimeconfig.cache

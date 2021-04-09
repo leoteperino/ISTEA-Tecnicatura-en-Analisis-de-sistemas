@@ -51,18 +51,18 @@ namespace proyect17
 
           // Console.WriteLine("*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/");
 
-          // string oracion1="Nicolas Manuel Fernandez";
-          // int cant=oracion1.Length;
-          // int cant_real=0;
-          // for(int i=0;i<oracion1.Length;i++)
-          // {
-          //     if(oracion1[i]==' ')
-          //     {
-          //         cant_real++;                    
-          //     }                    
-          // }
-          // Console.WriteLine("Cant. Letras: "+cant);
-          // Console.WriteLine("Cant. Letras sin espacios: "+(cant-cant_real));
+          string oracion1="Nicolas Manuel Fernandez";
+          int cant=oracion1.Length;
+          int cant_real=0;
+          for(int i=0;i<oracion1.Length;i++)
+          {
+              if(oracion1[i]==' ')
+              {
+                  cant_real++;                    
+              }                    
+          }
+          Console.WriteLine("Cant. Letras: "+cant);
+          Console.WriteLine("Cant. Letras sin espacios: "+(cant-cant_real));
 
           // Console.WriteLine("*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/");
 
@@ -160,6 +160,6 @@ namespace proyect17
         //       break;
         //   }
         //   Console.WriteLine("*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/");
-        // }
+      }
     }
 }
