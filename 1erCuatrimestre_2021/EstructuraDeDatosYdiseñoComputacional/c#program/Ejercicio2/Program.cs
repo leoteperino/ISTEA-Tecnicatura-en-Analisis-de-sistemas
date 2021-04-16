@@ -19,7 +19,7 @@ namespace Ejercicio2
 
             Console.Clear();
             for(i=0; i<oracion.Length; i++){
-                if(oracion[i]=='0')){
+                if(oracion[i]=='0'){
                     cont_0++;
                 }else if(oracion[i]=='1'){
                     cont_1++;

@@ -1,0 +1,13 @@
+C:\valen\Estructura\Clase03_09042021\Clase\proyect3\bin\Debug\netcoreapp3.1\proyect3.exe
+C:\valen\Estructura\Clase03_09042021\Clase\proyect3\bin\Debug\netcoreapp3.1\proyect3.deps.json
+C:\valen\Estructura\Clase03_09042021\Clase\proyect3\bin\Debug\netcoreapp3.1\proyect3.runtimeconfig.json
+C:\valen\Estructura\Clase03_09042021\Clase\proyect3\bin\Debug\netcoreapp3.1\proyect3.runtimeconfig.dev.json
+C:\valen\Estructura\Clase03_09042021\Clase\proyect3\bin\Debug\netcoreapp3.1\proyect3.dll
+C:\valen\Estructura\Clase03_09042021\Clase\proyect3\bin\Debug\netcoreapp3.1\proyect3.pdb
+C:\valen\Estructura\Clase03_09042021\Clase\proyect3\obj\Debug\netcoreapp3.1\proyect3.csprojAssemblyReference.cache
+C:\valen\Estructura\Clase03_09042021\Clase\proyect3\obj\Debug\netcoreapp3.1\proyect3.AssemblyInfoInputs.cache
+C:\valen\Estructura\Clase03_09042021\Clase\proyect3\obj\Debug\netcoreapp3.1\proyect3.AssemblyInfo.cs
+C:\valen\Estructura\Clase03_09042021\Clase\proyect3\obj\Debug\netcoreapp3.1\proyect3.csproj.CoreCompileInputs.cache
+C:\valen\Estructura\Clase03_09042021\Clase\proyect3\obj\Debug\netcoreapp3.1\proyect3.dll
+C:\valen\Estructura\Clase03_09042021\Clase\proyect3\obj\Debug\netcoreapp3.1\proyect3.pdb
+C:\valen\Estructura\Clase03_09042021\Clase\proyect3\obj\Debug\netcoreapp3.1\proyect3.genruntimeconfig.cache
