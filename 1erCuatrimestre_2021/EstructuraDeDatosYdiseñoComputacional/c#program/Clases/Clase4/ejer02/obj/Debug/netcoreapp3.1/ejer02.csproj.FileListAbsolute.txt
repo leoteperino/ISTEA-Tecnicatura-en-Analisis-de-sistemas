@@ -1,0 +1,4 @@
+C:\valen\Estructura\Clase04_16042021\clase\ejer02\obj\Debug\netcoreapp3.1\ejer02.csprojAssemblyReference.cache
+C:\valen\Estructura\Clase04_16042021\clase\ejer02\obj\Debug\netcoreapp3.1\ejer02.AssemblyInfoInputs.cache
+C:\valen\Estructura\Clase04_16042021\clase\ejer02\obj\Debug\netcoreapp3.1\ejer02.AssemblyInfo.cs
+C:\valen\Estructura\Clase04_16042021\clase\ejer02\obj\Debug\netcoreapp3.1\ejer02.csproj.CoreCompileInputs.cache

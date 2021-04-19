@@ -1,0 +1,13 @@
+C:\valen\PL\Clase03\pract02\bin\Debug\netcoreapp3.1\pract02.exe
+C:\valen\PL\Clase03\pract02\bin\Debug\netcoreapp3.1\pract02.deps.json
+C:\valen\PL\Clase03\pract02\bin\Debug\netcoreapp3.1\pract02.runtimeconfig.json
+C:\valen\PL\Clase03\pract02\bin\Debug\netcoreapp3.1\pract02.runtimeconfig.dev.json
+C:\valen\PL\Clase03\pract02\bin\Debug\netcoreapp3.1\pract02.dll
+C:\valen\PL\Clase03\pract02\bin\Debug\netcoreapp3.1\pract02.pdb
+C:\valen\PL\Clase03\pract02\obj\Debug\netcoreapp3.1\pract02.csprojAssemblyReference.cache
+C:\valen\PL\Clase03\pract02\obj\Debug\netcoreapp3.1\pract02.AssemblyInfoInputs.cache
+C:\valen\PL\Clase03\pract02\obj\Debug\netcoreapp3.1\pract02.AssemblyInfo.cs
+C:\valen\PL\Clase03\pract02\obj\Debug\netcoreapp3.1\pract02.csproj.CoreCompileInputs.cache
+C:\valen\PL\Clase03\pract02\obj\Debug\netcoreapp3.1\pract02.dll
+C:\valen\PL\Clase03\pract02\obj\Debug\netcoreapp3.1\pract02.pdb
+C:\valen\PL\Clase03\pract02\obj\Debug\netcoreapp3.1\pract02.genruntimeconfig.cache

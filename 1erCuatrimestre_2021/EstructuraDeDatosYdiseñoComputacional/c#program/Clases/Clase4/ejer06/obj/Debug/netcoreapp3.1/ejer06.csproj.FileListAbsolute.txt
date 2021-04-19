@@ -1,0 +1,13 @@
+C:\valen\Estructura\Clase04_16042021\clase\ejer06\obj\Debug\netcoreapp3.1\ejer06.csprojAssemblyReference.cache
+C:\valen\Estructura\Clase04_16042021\clase\ejer06\obj\Debug\netcoreapp3.1\ejer06.AssemblyInfoInputs.cache
+C:\valen\Estructura\Clase04_16042021\clase\ejer06\obj\Debug\netcoreapp3.1\ejer06.AssemblyInfo.cs
+C:\valen\Estructura\Clase04_16042021\clase\ejer06\obj\Debug\netcoreapp3.1\ejer06.csproj.CoreCompileInputs.cache
+C:\valen\Estructura\Clase04_16042021\clase\ejer06\bin\Debug\netcoreapp3.1\ejer06.exe
+C:\valen\Estructura\Clase04_16042021\clase\ejer06\bin\Debug\netcoreapp3.1\ejer06.deps.json
+C:\valen\Estructura\Clase04_16042021\clase\ejer06\bin\Debug\netcoreapp3.1\ejer06.runtimeconfig.json
+C:\valen\Estructura\Clase04_16042021\clase\ejer06\bin\Debug\netcoreapp3.1\ejer06.runtimeconfig.dev.json
+C:\valen\Estructura\Clase04_16042021\clase\ejer06\bin\Debug\netcoreapp3.1\ejer06.dll
+C:\valen\Estructura\Clase04_16042021\clase\ejer06\bin\Debug\netcoreapp3.1\ejer06.pdb
+C:\valen\Estructura\Clase04_16042021\clase\ejer06\obj\Debug\netcoreapp3.1\ejer06.dll
+C:\valen\Estructura\Clase04_16042021\clase\ejer06\obj\Debug\netcoreapp3.1\ejer06.pdb
+C:\valen\Estructura\Clase04_16042021\clase\ejer06\obj\Debug\netcoreapp3.1\ejer06.genruntimeconfig.cache

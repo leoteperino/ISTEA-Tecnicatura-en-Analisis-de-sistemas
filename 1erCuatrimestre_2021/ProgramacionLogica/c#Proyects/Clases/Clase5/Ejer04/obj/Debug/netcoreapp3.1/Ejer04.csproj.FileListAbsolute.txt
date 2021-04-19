@@ -1,0 +1,13 @@
+C:\valen\PL\Clase05_12042021\Clase\Ejer04\bin\Debug\netcoreapp3.1\Ejer04.exe
+C:\valen\PL\Clase05_12042021\Clase\Ejer04\bin\Debug\netcoreapp3.1\Ejer04.deps.json
+C:\valen\PL\Clase05_12042021\Clase\Ejer04\bin\Debug\netcoreapp3.1\Ejer04.runtimeconfig.json
+C:\valen\PL\Clase05_12042021\Clase\Ejer04\bin\Debug\netcoreapp3.1\Ejer04.runtimeconfig.dev.json
+C:\valen\PL\Clase05_12042021\Clase\Ejer04\bin\Debug\netcoreapp3.1\Ejer04.dll
+C:\valen\PL\Clase05_12042021\Clase\Ejer04\bin\Debug\netcoreapp3.1\Ejer04.pdb
+C:\valen\PL\Clase05_12042021\Clase\Ejer04\obj\Debug\netcoreapp3.1\Ejer04.csprojAssemblyReference.cache
+C:\valen\PL\Clase05_12042021\Clase\Ejer04\obj\Debug\netcoreapp3.1\Ejer04.AssemblyInfoInputs.cache
+C:\valen\PL\Clase05_12042021\Clase\Ejer04\obj\Debug\netcoreapp3.1\Ejer04.AssemblyInfo.cs
+C:\valen\PL\Clase05_12042021\Clase\Ejer04\obj\Debug\netcoreapp3.1\Ejer04.csproj.CoreCompileInputs.cache
+C:\valen\PL\Clase05_12042021\Clase\Ejer04\obj\Debug\netcoreapp3.1\Ejer04.dll
+C:\valen\PL\Clase05_12042021\Clase\Ejer04\obj\Debug\netcoreapp3.1\Ejer04.pdb
+C:\valen\PL\Clase05_12042021\Clase\Ejer04\obj\Debug\netcoreapp3.1\Ejer04.genruntimeconfig.cache
