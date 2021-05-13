@@ -1,0 +1,16 @@
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/obj/Debug/net5.0/Test.csprojAssemblyReference.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/obj/Debug/net5.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/obj/Debug/net5.0/Test.AssemblyInfoInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/obj/Debug/net5.0/Test.AssemblyInfo.cs
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/obj/Debug/net5.0/Test.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/bin/Debug/net5.0/Test
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/bin/Debug/net5.0/Test.deps.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/bin/Debug/net5.0/Test.runtimeconfig.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/bin/Debug/net5.0/Test.runtimeconfig.dev.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/bin/Debug/net5.0/Test.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/bin/Debug/net5.0/ref/Test.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/bin/Debug/net5.0/Test.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/obj/Debug/net5.0/Test.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/obj/Debug/net5.0/ref/Test.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/obj/Debug/net5.0/Test.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Practica/Test/obj/Debug/net5.0/Test.genruntimeconfig.cache

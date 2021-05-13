@@ -1,0 +1,16 @@
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/bin/Debug/net5.0/Parcial1-Ej2
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/bin/Debug/net5.0/Parcial1-Ej2.deps.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/bin/Debug/net5.0/Parcial1-Ej2.runtimeconfig.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/bin/Debug/net5.0/Parcial1-Ej2.runtimeconfig.dev.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/bin/Debug/net5.0/Parcial1-Ej2.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/bin/Debug/net5.0/ref/Parcial1-Ej2.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/bin/Debug/net5.0/Parcial1-Ej2.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/obj/Debug/net5.0/Parcial1-Ej2.csprojAssemblyReference.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/obj/Debug/net5.0/Parcial1-Ej2.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/obj/Debug/net5.0/Parcial1-Ej2.AssemblyInfoInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/obj/Debug/net5.0/Parcial1-Ej2.AssemblyInfo.cs
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/obj/Debug/net5.0/Parcial1-Ej2.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/obj/Debug/net5.0/Parcial1-Ej2.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/obj/Debug/net5.0/ref/Parcial1-Ej2.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/obj/Debug/net5.0/Parcial1-Ej2.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Parciales/Parcial1/Parcial1-Ej2/obj/Debug/net5.0/Parcial1-Ej2.genruntimeconfig.cache
