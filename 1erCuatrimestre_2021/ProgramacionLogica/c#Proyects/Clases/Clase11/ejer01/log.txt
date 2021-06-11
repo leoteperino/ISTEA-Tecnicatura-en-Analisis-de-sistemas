@@ -1,0 +1,8 @@
+31/5/2021 7:41:07 p. m. Inicio Aplicacion
+31/5/2021 7:41:12 p. m.Error de divicion por cero
+31/5/2021 7:41:12 p. m. Fin Aplicacion
+31/5/2021 7:41:30 p. m. Inicio Aplicacion
+31/5/2021 7:41:34 p. m.Se ha ingresado un dato no Valido
+31/5/2021 7:41:34 p. m. Fin Aplicacion
+6/8/2021 8:57:10 PM Inicio Aplicacion
+6/8/2021 8:57:16 PM Fin Aplicacion

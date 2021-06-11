@@ -1,0 +1,16 @@
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/bin/Debug/net5.0/ejer01
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/bin/Debug/net5.0/ejer01.deps.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/bin/Debug/net5.0/ejer01.runtimeconfig.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/bin/Debug/net5.0/ejer01.runtimeconfig.dev.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/bin/Debug/net5.0/ejer01.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/bin/Debug/net5.0/ref/ejer01.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/bin/Debug/net5.0/ejer01.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/obj/Debug/net5.0/ejer01.csprojAssemblyReference.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/obj/Debug/net5.0/ejer01.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/obj/Debug/net5.0/ejer01.AssemblyInfoInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/obj/Debug/net5.0/ejer01.AssemblyInfo.cs
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/obj/Debug/net5.0/ejer01.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/obj/Debug/net5.0/ejer01.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/obj/Debug/net5.0/ref/ejer01.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/obj/Debug/net5.0/ejer01.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Clases/Clase9/ejer01/obj/Debug/net5.0/ejer01.genruntimeconfig.cache
