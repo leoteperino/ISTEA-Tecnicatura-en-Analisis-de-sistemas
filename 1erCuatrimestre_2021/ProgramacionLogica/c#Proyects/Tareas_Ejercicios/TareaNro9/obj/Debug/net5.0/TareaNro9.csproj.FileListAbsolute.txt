@@ -1,0 +1,16 @@
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/bin/Debug/net5.0/TareaNro9
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/bin/Debug/net5.0/TareaNro9.deps.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/bin/Debug/net5.0/TareaNro9.runtimeconfig.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/bin/Debug/net5.0/TareaNro9.runtimeconfig.dev.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/bin/Debug/net5.0/TareaNro9.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/bin/Debug/net5.0/ref/TareaNro9.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/bin/Debug/net5.0/TareaNro9.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/obj/Debug/net5.0/TareaNro9.csprojAssemblyReference.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/obj/Debug/net5.0/TareaNro9.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/obj/Debug/net5.0/TareaNro9.AssemblyInfoInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/obj/Debug/net5.0/TareaNro9.AssemblyInfo.cs
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/obj/Debug/net5.0/TareaNro9.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/obj/Debug/net5.0/TareaNro9.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/obj/Debug/net5.0/ref/TareaNro9.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/obj/Debug/net5.0/TareaNro9.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/ProgramacionLogica/c#Proyects/Tareas_Ejercicios/TareaNro9/obj/Debug/net5.0/TareaNro9.genruntimeconfig.cache

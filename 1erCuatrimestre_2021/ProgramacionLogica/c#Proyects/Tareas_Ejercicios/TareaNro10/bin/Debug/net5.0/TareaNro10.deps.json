@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TareaNro10/1.0.0": {
+        "runtime": {
+          "TareaNro10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TareaNro10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

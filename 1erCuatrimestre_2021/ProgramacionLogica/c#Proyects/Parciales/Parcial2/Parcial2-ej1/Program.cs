@@ -6,12 +6,17 @@ namespace Parcial2_ej1
     {
         static void Main(string[] args)
         {
+            DateTime fecha;
+            string ingreso;
+
             Console.Clear();
             Console.WriteLine("****Benvenido****");
             pedirNombre();
             pedirApellido();
             pedirDNI();
-            pedirFecha();   
+            fecha = pedirFecha();
+            ingreso = calcularEdad(fecha);
+            Console.WriteLine(ingreso);   
         }
 
         /*
@@ -119,7 +124,6 @@ namespace Parcial2_ej1
                     Console.Write("Ingrese fecha de nacimiento[Dia-Mes-Año][00-00-0000]: ");
                     fecha = DateTime.Parse(Console.ReadLine());
                     if(validarEdad(fecha)){
-                        CalcularEdad(fecha);
                         esFecha = true;        
                     }else{
                         esFecha = false;
@@ -166,21 +170,20 @@ namespace Parcial2_ej1
         /*
         //Funcion calcularEdad
         //Funcion que evalua si la edad ingresada es mayoy o menor a 18, si es mayor
-        muestra un mensaje por pantalla, si no lo es muestra otro mensaje
+        devuelve un strng, si no lo es devuelve otro string
         //Recibe como parametro de entrada un tipo de dato DateTime que es la fecha ingresada por consola.
-        //No devuelve datos
+        //Devuelve un tipo de dato String que es el mensaje a mostrar
         */
-        static void CalcularEdad(DateTime fecha){
+        static string calcularEdad(DateTime fecha){
+            string ret;
             int edadDias = ((TimeSpan)(DateTime.Now-fecha)).Days;
             int edad = edadDias/365;
             if(edad>=18){
-                Console.ForegroundColor = ConsoleColor.DarkBlue;
-                Console.WriteLine("El alumno tiene aprobado el Ingreso");
-
+                ret = "El alumno tiene aprobado el Ingreso";
             }else{
-                Console.ForegroundColor = ConsoleColor.DarkBlue;
-                Console.WriteLine("El alumno no tiene aprobado el ingreso");
+                ret = "El alumno no tiene aprobado el ingreso";
             }
+            return ret;
         }
 
         /*
@@ -215,8 +218,6 @@ namespace Parcial2_ej1
                 ret = false;
             }
             return ret;
-        }
-
-        
+        }        
     }
 }

@@ -1,0 +1,16 @@
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/obj/Debug/net5.0/Ejercicio8.csproj.AssemblyReference.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/obj/Debug/net5.0/Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/obj/Debug/net5.0/Ejercicio8.AssemblyInfoInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/obj/Debug/net5.0/Ejercicio8.AssemblyInfo.cs
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/obj/Debug/net5.0/Ejercicio8.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/bin/Debug/net5.0/Ejercicio8
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/bin/Debug/net5.0/Ejercicio8.deps.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/bin/Debug/net5.0/Ejercicio8.runtimeconfig.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/bin/Debug/net5.0/Ejercicio8.runtimeconfig.dev.json
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/bin/Debug/net5.0/Ejercicio8.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/bin/Debug/net5.0/ref/Ejercicio8.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/bin/Debug/net5.0/Ejercicio8.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/obj/Debug/net5.0/Ejercicio8.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/obj/Debug/net5.0/ref/Ejercicio8.dll
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/obj/Debug/net5.0/Ejercicio8.pdb
+/home/leandro/Desktop/ISTEA/1erCuatrimestre_2021/EstructuraDeDatosYdiseñoComputacional/c#program/Tareas_Ejercicios/Ejercicio8/obj/Debug/net5.0/Ejercicio8.genruntimeconfig.cache
