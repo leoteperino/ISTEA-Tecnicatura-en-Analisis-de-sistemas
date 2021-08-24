@@ -1,0 +1,10 @@
+Diseno de Bases de Datos - Clase Nro 2 - 23/08/2021
+- Tipos de datos -
+char y varchar // el char siempre me ocupa el espacio que le pido, el varchar se autoajusta a lo que se ingresa, es lo que ocupa en disco.
+pero el char es mas rapido que el varchar, para hacer consultas.
+bit - guarda 1 o 0
+-Bases de datos del Sistema -
+- Diseno de basdes de Datos -
+- Entidad y atributos - Entidad: son los sustantivos / Una Entidad es entidad si tiene atributos
+- Relaciones - son los verbos
+ 
